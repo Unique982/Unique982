@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/unique neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unique neupane" height="30" width="40" /></a>
-<a href="https://fb.com/unique neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unique neupane" height="30" width="40" /></a>
-<a href="https://instagram.com/neupane khemraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neupane khemraj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@uniqueonlineupdate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@uniqueonlineupdate" height="30" width="40" /></a>
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FUnique982%2FWeek-Project.git%3Ffbclid%3DIwAR0kO1q8iWnAz_PwLcwXcqt_e8dbTno9bmEthP1AICnRruoC1Cv4pK4taJ4&h=AT1sYkZ5THf-i_sF9TYtE8Nc_LlFdp3qWV0W7EQtcl2tA7SVU7-UdwamzjhOkc7nGbcMSX8C5e93pdjVTbfokzOL6rpe4YFPZW_nbKoPwInvUufAZwl65MMFg_azWm9wLxqEqA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unique neupane" height="30" width="40" /></a>
+<a href="https://www.facebook.com/neupane.unique.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="unique neupane" height="30" width="40" /></a>
+<a href="https://instagram.com/uniqueneupane908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neupane khemraj" height="30" width="40" /></a>
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutube.com%2F%40uniqueonlineupdate%3Fsi%3DV3jx-6Gcskrn2LD3%26fbclid%3DIwAR3okClAiic2IBm0x9arnc21603EGjBae94mqVxLVHvX6AgydPiVj3b9JKk&h=AT28dxQOBf5ojw_I_PYC5Yoe0jdqtGnjNnOFVUXEAbUAG8I3D1RzuRfoQqOIgV159iA6VgPFOGTEGU7a0fYCeE94u-eGO0nxuCHujt0-5njWsGRGEcFLXuqdeon2rV-kMkoZbA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@uniqueonlineupdate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
