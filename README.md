@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Unique Neupane</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right"src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="codeing" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unique982&label=Profile%20views&color=0e75b6&style=flat" alt="unique982" /> </p>
+<p align="left"> <img src="https://player.vimeo.com/external/442381769.sd.mp4?s=f206b533b8bdb1cc1364de87074af32f4f0f2231&profile_id=164&oauth2_token_id=57447761" alt="unique982" /> </p>
 
 - 🌱 I’m currently learning **web development and design courses etc..**
 
