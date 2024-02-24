@@ -28,6 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unique982&show_icons=true&locale=en" alt="unique982" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unique982&" alt="unique982"/></p>
-<p><img align="left" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1708761609~exp=1708765209~hmac=c7715e4d5a80915b972fea4353e371146c5e2b10d6b8ce302d37f2d5bbb6f38e" alt="unique982" wisth="400" /></p>
-<img align="right"src="https://img.freepik.com/free-vector/ui-ux-designers-isometric-composition-with-small-people-creating-custom-design-web-site-3d-vector-illustration_1284-68939.jpg?t=st=1708761906~exp=1708765506~hmac=328f9f8fb8a20b43d322920918133ed0c62afb6db174a7639776a0afef867e2f" alt="unique982" width="400">
+<p><img align="left" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1708761609~exp=1708765209~hmac=c7715e4d5a80915b972fea4353e371146c5e2b10d6b8ce302d37f2d5bbb6f38e" alt="unique982" wisth="400" />
+<img align="right"src="https://img.freepik.com/free-vector/ui-ux-designers-isometric-composition-with-small-people-creating-custom-design-web-site-3d-vector-illustration_1284-68939.jpg?t=st=1708761906~exp=1708765506~hmac=328f9f8fb8a20b43d322920918133ed0c62afb6db174a7639776a0afef867e2f" alt="unique982" width="400"></p>
 
