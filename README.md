@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unique982&show_icons=true&locale=en&layout=compact" alt="unique982" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unique982&show_icons=true&locale=en" alt="unique982" color="red"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unique982&show_icons=true&locale=en" alt="unique982"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unique982&" alt="unique982"/></p>
 <p><img align="left" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1708761609~exp=1708765209~hmac=c7715e4d5a80915b972fea4353e371146c5e2b10d6b8ce302d37f2d5bbb6f38e" alt="unique982" wisth="400" />
