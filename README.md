@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web development and design courses etc..**
 
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **HTML,CSS,Javascript,PHP,MySQL,Laravel,Java,C#,and WordPress..**
 
 - 📫 How to reach me **uniqueneupane153@gmail.com//khemrajneupane111@gmail.com**
 
