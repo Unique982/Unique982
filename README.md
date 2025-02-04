@@ -1,4 +1,4 @@
-![logo](https://github.com/Unique982/Unique982/blob/main/banner.png)
+![logo](https://github.com/Unique982/Unique982/blob/main/bannerA.jpg)
 <h1 align="center">Hi 👋, I'm Unique Neupane</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right"src="https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="codeing" width="400">
